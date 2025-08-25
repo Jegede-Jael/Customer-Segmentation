@@ -68,5 +68,6 @@ Overall, the organization’s most profitable customers are married, graduate Bo
 - Loyalty programs should be introduced for champion customers to maintain their engagements.
 - Focus marketing and retention strategies on married, graduate Boomers and Gen X customers, as they represent the core revenue base.
 
-### Limitations 
+
+
 
