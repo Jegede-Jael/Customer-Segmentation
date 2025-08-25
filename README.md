@@ -62,7 +62,7 @@ The various results gotten from the analysis are summarized as follows
 - Marital Status: Married couples account for the largest share of sales.
 Overall, the organization’s most profitable customers are married, graduate Boomers and Gen X individuals.
 
-### Recommendation 
+### Recommendations 
 ---
 
 - Loyalty programs should be introduced for champion customers to maintain their engagements.
